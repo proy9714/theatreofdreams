@@ -2,7 +2,7 @@
 
 This is my personal photography portfolio.
 
-![image](https://user-images.githubusercontent.com/37247296/129600804-1e5038f0-35c3-4ab0-adf0-547129975fa1.png)
+![image](https://user-images.githubusercontent.com/37247296/129601256-96ab2f51-abbb-4075-9329-19c82b1895c8.png)
 
 Feel free to contact me!
 
